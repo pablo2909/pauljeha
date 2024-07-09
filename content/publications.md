@@ -14,7 +14,7 @@ date: 2024-07-06
 > **Paul Jeha\***, Michael Bohlke-Schneider\*, Pedro Mercado, Shubham Kapoor, Rajbir Singh Nirwan, Valentin Flunkert, Jan Gasthaus, Tim Januschowsk
 >
 > International Conference on Learning Representations (ICLR) , 2022  
-> ICML Workshop on Time Series, 2021.
+> ICML Workshop on Time Series, 2021. - Contributed Talk
 > 
 >  [ARXIV](https://arxiv.org/abs/2108.00981) [PDF](https://arxiv.org/pdf/2108.00981) [CODE](https://github.com/mbohlkeschneider/psa-gan)
 
