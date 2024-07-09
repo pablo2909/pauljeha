@@ -16,3 +16,6 @@ A short time-line of what I have been up to the recent years:
 - **2018 - 2020**: MSc at EPFL studying all things Data Science
 - **2016 - 2020**: MSc at CentralSupélec in Electrical Engineering
 - **2013 - 2016**: Preparatory Classes at Lycee Chaptal in Paris
+
+[Link to my CV](pdf/CV_PJ.pdf)
+
