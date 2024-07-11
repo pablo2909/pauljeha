@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Paul Jeha</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/pauljeha/</link>
     <description>Recent content in Home on Paul Jeha</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pauljeha/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:1313/pauljeha/contact/</link>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:1313/pauljeha/contact/</guid>
       <description>If you want to reach out, please do so by sending an email to pauje at dtu dot dk. I&amp;rsquo;m always open to chat, collaborate or just have a (specialty) coffee.</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>http://localhost:1313/pauljeha/publications/</link>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>http://localhost:1313/pauljeha/publications/</guid>
       <description>Variance reduction of diffusion model’s gradients with Taylor approximation-based control variate Paul Jeha, Will Grathwohl, Michael Riis Andersen, Carl Henrik Ek, Jes Frellsen&#xA;ICML 2024 Workshop on Structured Probabilistic Inference &amp;amp; Generative Modeling&#xA;ARXIV PDF&#xA;PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series Paul Jeha*, Michael Bohlke-Schneider*, Pedro Mercado, Shubham Kapoor, Rajbir Singh Nirwan, Valentin Flunkert, Jan Gasthaus, Tim Januschowsk&#xA;International Conference on Learning Representations (ICLR) , 2022&#xA;ICML Workshop on Time Series, 2021.</description>
     </item>
     <item>
       <title>My first post</title>
-      <link>http://localhost:1313/posts/my_first_post/</link>
+      <link>http://localhost:1313/pauljeha/posts/my_first_post/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my_first_post/</guid>
+      <guid>http://localhost:1313/pauljeha/posts/my_first_post/</guid>
       <description>Hello world, welcome to my first post&#xA;$$ \begin{aligned} KL(\hat{y} || y) &amp;amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \ JS(\hat{y} || y) &amp;amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2})) \end{aligned}$$</description>
     </item>
   </channel>

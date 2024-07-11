@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://pablo2909.github.io/pauljeha/'
 languageCode = 'en-us'
 title = 'Paul Jeha'
 theme = 'archie'
@@ -8,6 +8,8 @@ theme = 'archie'
 ##useCDN=false
 #subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
 
+relativeURLs = true
+canonifyURLs = true
 
 [[params.social]]
 name = "GitHub"
