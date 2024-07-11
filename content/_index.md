@@ -5,8 +5,6 @@ date: 2024-07-06
 
 {{<figure src="images/paultea.png"  height=200 >}}
 
-Open for internships, please reach out if you think I could be a good fit for your team!
-
 I'm Paul, a second year PhD student at the Technical University of Denmark in Copenhagen. I'm supervised by Jes Frellsen and Michael Riis Andersen. 
 
 I'm interested in all things generative models such as VAE, EBMs, GANs, but with a special focus on diffusion models and the theory behind them (stochastic processes, optimal transports, differential equations, etc.). Recently I have been working at reducing the variance of score based models' gradients. I'm keen now on working on discrete diffusion and their application to text and protein modelling.
