@@ -5,7 +5,7 @@ date: 2024-07-06
 
 {{<figure src="images/paultea.png"  height=200 >}}
 
-> Open for internships, please reach out if you think I could be a good fit for your team!
+Open for internships, please reach out if you think I could be a good fit for your team!
 
 I'm Paul, a second year PhD student at the Technical University of Denmark in Copenhagen. I'm supervised by Jes Frellsen and Michael Riis Andersen. 
 
