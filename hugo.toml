@@ -8,8 +8,8 @@ theme = 'archie'
 ##useCDN=false
 #subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
 
-relativeURLs = true
-canonifyURLs = true
+#relativeURLs = true
+#canonifyURLs = true
 
 [[params.social]]
 name = "GitHub"
