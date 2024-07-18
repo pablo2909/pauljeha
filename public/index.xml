@@ -22,12 +22,5 @@
       <guid>http://localhost:1313/pauljeha/publications/</guid>
       <description>Variance reduction of diffusion model’s gradients with Taylor approximation-based control variate Paul Jeha, Will Grathwohl, Michael Riis Andersen, Carl Henrik Ek, Jes Frellsen&#xA;ICML 2024 Workshop on Structured Probabilistic Inference &amp;amp; Generative Modeling&#xA;ARXIV PDF&#xA;Learning energy-based models by self-normalising the likelihood Hugo Henri Joseph Senetaire, Paul Jeha, Jes Frellsen, Pierre-Alexandre Mattei&#xA;Work in progress, 2024&#xA;PDF&#xA;PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series Paul Jeha*, Michael Bohlke-Schneider*, Pedro Mercado, Shubham Kapoor, Rajbir Singh Nirwan, Valentin Flunkert, Jan Gasthaus, Tim Januschowsk</description>
     </item>
-    <item>
-      <title>My first post</title>
-      <link>http://localhost:1313/pauljeha/posts/my_first_post/</link>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pauljeha/posts/my_first_post/</guid>
-      <description>Hello world, welcome to my first post&#xA;$$ \begin{aligned} KL(\hat{y} || y) &amp;amp;= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \ JS(\hat{y} || y) &amp;amp;= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2})) \end{aligned}$$</description>
-    </item>
   </channel>
 </rss>

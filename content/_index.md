@@ -22,4 +22,3 @@ A short time-line of what I have been up to the recent years:
 - **2013 - 2016**: Preparatory Classes at Lycee Chaptal in Paris
 
 [Link to my CV](pdf/CV_PJ.pdf)
-

@@ -3,7 +3,7 @@ title: My first post
 description:
 date: 2024-07-04
 #tldr: (optional)
-draft: false
+draft: true
 #tags: [tag names] (optional)
 params:
   math: true
