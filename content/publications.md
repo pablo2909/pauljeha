@@ -8,7 +8,7 @@ date: 2024-07-06
 > 
 > ICML 2024 Workshop on Structured Probabilistic Inference & Generative Modeling
 > 
-> [ARXIV](#) [PDF](#)
+> [PDF](https://openreview.net/pdf?id=YqFIzHAfbk)
 
 ## Learning energy-based models by self-normalising the likelihood
 > Hugo Henri Joseph Senetaire, **Paul Jeha**, Jes Frellsen, Pierre-Alexandre Mattei
