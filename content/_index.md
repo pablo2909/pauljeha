@@ -5,11 +5,10 @@ date: 2024-07-06
 
 {{<figure src="images/paultea.png"  height=200 >}}
 
-> I'll be at ICML 2024 in Vienna, presenting my most recent work, let me know if you want to meet!
 
 > Open for internship, please reach out if you think I could be a good fit for your team!
 
-I'm Paul, a second year PhD student at the Technical University of Denmark in Copenhagen. I'm supervised by [Jes Frellsen](https://frellsen.org) and [Michael Riis Andersen](https://michaelriis.github.io). 
+I'm Paul, a third year PhD student at the Technical University of Denmark in Copenhagen. I'm supervised by [Jes Frellsen](https://frellsen.org) and [Michael Riis Andersen](https://michaelriis.github.io). 
 
 I'm interested in all things generative models such as VAE, EBMs, GANs, but with a special focus on diffusion models and the theory behind them (stochastic processes, optimal transports, differential equations, etc.). Recently I have been working at reducing the variance of score based models' gradients. I'm keen now on working on discrete diffusion and their application to text and protein modelling.
 

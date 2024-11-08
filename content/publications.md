@@ -3,6 +3,13 @@ title: "Publications"
 date: 2024-07-06
 ---
 
+## Generative Diffusion Models for Sequential Recommendations
+> Sharare Zolghadr, Ole Winther, **Paul Jeha**
+>
+> RECSYS 24, Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems
+> [ARXIV](https://arxiv.org/abs/2410.19429)
+
+
 ## Variance reduction of diffusion model’s gradients with Taylor approximation-based control variate
 > **Paul Jeha**, Will Grathwohl, Michael Riis Andersen, Carl Henrik Ek, Jes Frellsen
 > 
