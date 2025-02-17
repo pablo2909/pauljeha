@@ -3,6 +3,12 @@ title: "Publications"
 date: 2024-07-06
 ---
 
+## Debiasing Guidance for Discrete Diffusion with Sequential Monte Carlo
+> Cheuk Kit Lee\*, **Paul Jeha\***, Jes Frellsen, Pietro Lio, Michael Samuel Albergo, Francisco Vargas
+>
+> Under review, 2025
+> [ARXIV](https://arxiv.org/abs/2502.06079)
+
 ## Generative Diffusion Models for Sequential Recommendations
 > Sharare Zolghadr, Ole Winther, **Paul Jeha**
 >
