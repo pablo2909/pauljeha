@@ -10,7 +10,7 @@ date: 2024-07-06
 
 I'm Paul, a third year PhD student at the Technical University of Denmark in Copenhagen. I'm supervised by [Jes Frellsen](https://frellsen.org) and [Michael Riis Andersen](https://michaelriis.github.io). 
 
-I'm interested in all things generative models such as VAE, EBMs, GANs, but with a special focus on diffusion models and the theory behind them (stochastic processes, optimal transports, differential equations, etc.). Recently I have been working at reducing the variance of score based models' gradients. I'm now on working on guiding and sampling from discrete diffusion models. Check out my publications to see what I've been up to!
+I'm interested in all things generative models such as VAE, EBMs, GANs, but with a special focus on diffusion models and the theory behind them (stochastic processes, optimal transports, differential equations, etc.). Recently I have been working at reducing the variance of score based models' gradients. I'm now working on guiding and sampling from discrete diffusion models. Check out my publications to see what I've been up to!
 
 A short time-line of what I have been up to the recent years:
 - **May - July 2024**: Visitied [Carl Henrik Ek](http://carlhenrik.com/) at University of Cambridge
