@@ -14,7 +14,8 @@ I'm interested in all things generative models such as VAE, EBMs, GANs, but with
 
 A short time-line of what I have been up to the recent years:
 
-- **June - August 2025**: Excited to be joining Microsoft Research in Cambridge, UK for a research internship!
+- **September 2025 - February 2026**: Excited to join [Natalie Schluter's](https://natschluter.github.io/) team at Apple MLR for a research internship!
+- **June - August 2025**: Research internship at Microsoft Research in Cambridge, UK. Got to work on some really cool diffusion project with Jannes Gladrow, Heiner Kremer and Fabian Falck (soon out ;) ). 
 - **April 2025**: Went to Singapore to present our work on Debiasing guidance for discrete diffusion. It has been selected for an oral presentation at the ICLR 2025 [FPI workshop](https://sites.google.com/view/fpiworkshop/about)! Really exciting work, check it out [here](https://arxiv.org/pdf/2502.06079)!
 - **May - July 2024**: Visitied [Carl Henrik Ek](http://carlhenrik.com/) at University of Cambridge
 - **2022 - 2026**: PhD student in Copenhagen working on Generative Models
